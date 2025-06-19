@@ -1,3 +1,5 @@
+// I am a comment
+
 package main
 
 import (
